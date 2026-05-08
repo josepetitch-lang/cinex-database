@@ -23,10 +23,6 @@ El sistema está organizado de forma modular para facilitar su mantenimiento:
 ### Estructura de la Base de Datos
 
 
----
-**Desarrollado por:** Jose Petitch  
-**Tecnologías:** Python | SQLite | PO
-
 ## Cosetas: 
 - Consultas SQL (SELECT, JOIN, GROUP BY).
 - Manipulación de datos (INSERT, UPDATE, DELETE).
