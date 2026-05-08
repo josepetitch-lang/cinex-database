@@ -4,7 +4,7 @@ connection = sqlite3.connect("eusoubrazucaymegustanlasgarotas.db")
 cursor = connection.cursor()
 
 cursor.execute ("""CREATE TABLE IF NOT EXISTS consolas (
-                   id INTEGER PRIMARY KEY,
+                   id INTEGER PRIMARY KEY, 
                    name TEXT, 
                    company TEXT,
                    games TEXT,
