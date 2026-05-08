@@ -13,7 +13,7 @@
 
 # CODE EVIDENCE: 
 
-[10:45 a. m., 3/5/2026] who cares: NSERT INTO Taquilla (ID_TAQUILLA, Direccion, Horario) 
+INSERT INTO Taquilla (ID_TAQUILLA, Direccion, Horario) 
 VALUES (1, 'Cine Central UNEFA', '09:00 - 21:00');
 
 
