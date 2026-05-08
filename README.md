@@ -1,5 +1,4 @@
 # REPOSITORIO: CINEX - DATABASE 
-# Cinex Database System 
 
 Este proyecto es un sistema de gestión para una cadena de cines, desarrollado con **Python** y **SQLite**. 
 Aplica conceptos de Programación Orientada a Objetos (POO) y arquitectura de servicios para manejar la lógica de negocio.
