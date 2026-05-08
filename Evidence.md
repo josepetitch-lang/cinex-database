@@ -26,7 +26,7 @@ VALUES (2, 'B', 2, 40, 1);
 
 INSERT INTO Funciones (ID_Funciones, Pelicula, Duracion, Hora, FECHA, Sala_Funcion)
 VALUES (1, 'Avengers: Endgame', '3h', '14:00', '2026-05-03', 1);
-[10:46 a. m., 3/5/2026] who cares: INSERT INTO Usuarios (Id, CI, Nombre, Apellido, Usuario, Contraseña)
+INSERT INTO Usuarios (Id, CI, Nombre, Apellido, Usuario, Contraseña)
 VALUES (1, '28123456', 'Administrador', 'UNEFA', 'admin', '1234');
 
 ALTER TABLE Usuarios ADD COLUMN Puesto TEXT;
