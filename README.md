@@ -44,4 +44,4 @@ A continuación, se muestran las capturas de pantalla que validan el correcto fu
 - Archivo `northwind.db` 
 
 
-**Estudiante:** Jose Petitch  
+**Estudiantes:** Jose Petit / Andrés Cambero
