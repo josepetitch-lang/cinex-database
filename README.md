@@ -38,7 +38,7 @@ A continuación, se muestran las capturas de pantalla que validan el correcto fu
 ### 2. Relaciones y Agregaciones (JOINs)
 
 
-## 🛠️ Requisitos
+Tecnologias
 - Python 3
 - SQLite3 
 - Archivo `northwind.db` 
